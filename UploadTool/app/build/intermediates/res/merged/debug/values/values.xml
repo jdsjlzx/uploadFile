@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">UploadTol</string>
+    <string name="btn_parent">上一级目录</string>
+    <string name="choseAllFiles">选择文件夹</string>
+    <string name="choseFile">选择文件</string>
+    <string name="chose_all_file">选择文件夹</string>
+    <string name="chose_file">选择文件</string>
+    <string name="startUpload">开始上传</string>
+    <string name="tvData">FileName</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

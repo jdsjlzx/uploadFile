@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileke.png",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\drawable-hdpi\\fileke.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folderke.png",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\drawable-hdpi\\folderke.png"
+    }
+]

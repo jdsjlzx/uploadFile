@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\line.xml",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\layout\\line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chose_all_files.xml",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\layout\\chose_all_files.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chose_file.xml",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\layout\\chose_file.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UploadTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\UploadTool\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

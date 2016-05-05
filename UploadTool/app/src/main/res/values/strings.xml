@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UploadTol</string>
+    <string name="chose_file">选择文件</string>
+    <string name="chose_all_file">选择文件夹</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="choseFile">选择文件</string>
+    <string name="choseAllFiles">选择文件夹</string>
+    <string name="startUpload">开始上传</string>
+    
+    <string name="tvData">FileName</string>
+    
+    
+    <string name="btn_parent">上一级目录</string>
+
+</resources>

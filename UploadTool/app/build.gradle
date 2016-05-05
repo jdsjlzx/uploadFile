@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.ke.uploadtol"
+        minSdkVersion 8
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.3.0'
+    compile files('libs/commons-codec-1.8.jar')
+    compile files('libs/sun.misc.BASE64Decoder.jar')
+    compile files('libs/android-async-http-1.4.8.jar')
+}
